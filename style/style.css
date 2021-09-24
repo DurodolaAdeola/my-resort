@@ -1,0 +1,61 @@
+
+body {
+    background-color:purple
+}
+.boo {
+    color: black;
+    background-color: darkorange;
+    image-rendering: optimizeQuality;
+}
+.ACE {
+    background-image: url(../images.jpg);
+    background-origin: padding-box;
+    background-position:center;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    border:rgb(0, 0, 0);
+    border-style: groove;
+    background-color: black;
+    font-style: oblique;
+}
+.ACR {
+    background-image: url(../images.jpg);
+    color: blue;
+    background-color: blue;
+    border-radius: 40px;
+    border-style: solid;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    border: black;
+    border-style: inset;
+    background-color: black;
+    border-radius: 50px;
+
+}
+.ASS {
+    background-image: url(../images.jpg);
+    color: blue;
+}
+.aco {
+    color: darkorange;
+}
+h3 {
+    font: oblique;
+}
+H4 {
+    text-align: center;
+    font: x-large;
+    font-style: italic;
+    font-size: xx-large;
+    border-radius: 50ch;
+    border-style: double;
+    border-color: blanchedalmond;
+    background-color: blanchedalmond;
+}
