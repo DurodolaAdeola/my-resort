@@ -2,10 +2,15 @@
 body {
     background-color:purple
 }
+.LIN {
+    text-align: center;
+    color: black;
+}
 .boo {
     color: black;
     background-color: darkorange;
     image-rendering: optimizeQuality;
+    text-align: center;
 }
 .ACE {
     background-image: url(../images.jpg);
@@ -42,6 +47,7 @@ h2 {
 .ASS {
     background-image: url(../images.jpg);
     color: blue;
+    
 }
 .aco {
     color: darkorange;
@@ -58,4 +64,12 @@ H4 {
     border-style: double;
     border-color: blanchedalmond;
     background-color: blanchedalmond;
+}
+.WHA {
+    border-radius: unset;
+    border-style: unset;
+    background-color: purple;
+}
+.WHO {
+    text-align: center;
 }
