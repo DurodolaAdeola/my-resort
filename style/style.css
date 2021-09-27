@@ -54,7 +54,9 @@ h2 {
 }
 h3 {
     font: oblique;
+
 }
+
 H4 {
     text-align: center;
     font: x-large;
@@ -72,4 +74,18 @@ H4 {
 }
 .WHO {
     text-align: center;
+}
+.me {
+    float: left;
+}
+.gal {
+    background-color: rgb(223, 500, 453);
+}
+.KII {
+    float: left;
+    border: 5px black solid;
+    border-radius: 50px;
+    color: red;
+    background-color: black;
+    position: fixed;
 }
